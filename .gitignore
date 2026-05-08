@@ -1,7 +1,5 @@
 .env
 .venv/
-data/
-uv.lock
 .DS_Store
 .claude/
 catboost_info/
